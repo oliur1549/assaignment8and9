@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationDemo", "AuthenticationDemo\AuthenticationDemo.csproj", "{CD341C3E-9DBE-4287-AA41-C95CE69A9442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membership", "Membership\Membership.csproj", "{3FA2AA50-A8CE-417C-9709-B636387B146E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD341C3E-9DBE-4287-AA41-C95CE69A9442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD341C3E-9DBE-4287-AA41-C95CE69A9442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD341C3E-9DBE-4287-AA41-C95CE69A9442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD341C3E-9DBE-4287-AA41-C95CE69A9442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA2AA50-A8CE-417C-9709-B636387B146E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA2AA50-A8CE-417C-9709-B636387B146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA2AA50-A8CE-417C-9709-B636387B146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA2AA50-A8CE-417C-9709-B636387B146E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3A1642-C562-4BEA-9C77-CFFCC7D2B9D2}
+	EndGlobalSection
+EndGlobal
