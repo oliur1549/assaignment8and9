@@ -61,7 +61,6 @@ F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Aut
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.TagHelpers.input.cache
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.TagHelpers.output.cache
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.RazorCoreGenerate.cache
-F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -158,3 +157,6 @@ F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\bin\Debug\netcoreapp3.1\zh-
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.csproj.CoreCompileInputs.cache
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.MvcApplicationPartsAssemblyInfo.cs
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Register\Index.cshtml.g.cs
