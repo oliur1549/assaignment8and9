@@ -43,18 +43,12 @@ namespace AuthenticationDemo.Areas.Admin.Controllers
 
         public IList<AuthenticationScheme> ExternalLogins { get; set; }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Registration()
         {
-            
-            return View();
-        }
-
-        public async Task<IActionResult> Registration(string returnUrl = null)
-        {
-            //var model = new InputModel();
-            ReturnUrl = returnUrl;
+            var model = new InputModel();
+            //ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
-            return View(returnUrl);
+            return View(model);
         }
         [HttpPost]
         public async Task<IActionResult> Registration(InputModel Input, string returnUrl = null)

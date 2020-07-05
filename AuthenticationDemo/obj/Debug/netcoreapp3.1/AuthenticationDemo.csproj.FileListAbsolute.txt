@@ -159,4 +159,5 @@ F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Aut
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\AuthenticationDemo.MvcApplicationPartsAssemblyInfo.cache
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Register\Index.cshtml.g.cs
+F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Class-31\HW\AuthenticationDemo\AuthenticationDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Register\Registration.cshtml.g.cs
